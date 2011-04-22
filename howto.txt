@@ -1,0 +1,6 @@
+> using git:
+  $ git init
+  $ git add [files]
+  $ commit -m 'first commit'
+  $ git remote add origin git@github.com:baloi/ruby_tinker.git
+  $ git push -u origin master
