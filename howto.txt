@@ -1,5 +1,9 @@
 > fossil 
-  $ fossil new
+  $ fossil new ~/your_repo_dir/proj.fossil
+  $ fossil open ~/your_repo_dir/proj.fossil
+  $ fossil stat
+  $ fossil serve # host project
+  $ fossil ui    # with web?
 > Programming tips
   * make integration test first to know how your program works
   * Vjd in vim to remove multiple blank lines
