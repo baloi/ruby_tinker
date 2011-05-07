@@ -1,3 +1,5 @@
+> fossil 
+  $ fossil new
 > Programming tips
   * make integration test first to know how your program works
   * Vjd in vim to remove multiple blank lines
